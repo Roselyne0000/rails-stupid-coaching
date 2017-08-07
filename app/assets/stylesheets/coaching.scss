@@ -1,0 +1,25 @@
+// Place all the styles related to the coaching controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.message {
+  text-align: center;
+  border-left: 5px solid rgba(200, 200, 200, 0.5);
+  font-size : 30px;
+  margin-left: 100px;
+}
+.conversation {
+  text-align:center;
+}
+
+p {
+   color: rgb(180, 180, 180);
+   font-size: 16px;
+
+   }
+#label {
+  font-size: 20px;
+}
+
+.form{
+  margin-top: 50px;
+}
